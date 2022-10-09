@@ -1,0 +1,3 @@
+DevOps Assignment:
+This is a sample document that is created with the Git operations. 
+Created branch development and pushing the code in the remote repository.
