@@ -1,3 +1,5 @@
 DevOps Assignment:
-This is a sample document that is created with the Git operations. 
-Created branch development and pushing the code in the remote repository.
+This is a devOps Assignment document that is created with the Git operations. 
+1.Created branch development and pushing the code in the remote repository.
+2.Created a file and pushed/committed all the changes in the development branch 
+3.Then merged the file with the main branch by taking a pull request from the github remote repository
