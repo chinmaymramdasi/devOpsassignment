@@ -3,3 +3,4 @@ This is a devOps Assignment document that is created with the Git operations.
 1.Created branch development and pushing the code in the remote repository.
 2.Created a file and pushed/committed all the changes in the development branch 
 3.Then merged the file with the main branch by taking a pull request from the github remote repository
+4.Create a pull request after merging the code to main branch
